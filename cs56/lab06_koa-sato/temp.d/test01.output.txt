@@ -1,0 +1,25 @@
+Enter expressions, or q to quit.
+5
+-1
+5
+0
+38
+28
+Failed to parse: Extra tokens at the end
+6
+10
+0
+Failed to parse: Extra tokens at the end
+2
+4
+-6
+Failed to parse: Extra tokens at the end
+2
+Failed to parse: Extra tokens at the end
+Failed to parse: Extra tokens at the end
+Failed to parse: Extra tokens at the end
+Failed to parse: Extra tokens at the end
+5
+-5
+Failed to parse: Extra tokens at the end
+0

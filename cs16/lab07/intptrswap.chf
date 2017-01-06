@@ -1,0 +1,9 @@
+// swaps values of two ints after getting fixed by
+// Kekoa Sato, Avi Loschak 11/18/2015
+
+void intswap(int *a, int *b) {
+    int *temp = *a;
+    *a = *b;
+    *b = *temp;
+}
+

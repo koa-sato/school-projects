@@ -1,0 +1,16 @@
+Script started on Wed 06 Apr 2016 05:38:03 PM PDT
+]777;notify;Command completed;rmdir -v -p one/two/three]0;koa.sato@mcl-8:~/cs32/lab01]7;file://mcl-8.cs.ucsb.edu/cs/student/koa.sato/cs32/lab01[koa.sato@mcl-8 lab01]$ rm -r[Kv -r one
+removed directory: ‘one/two/three’
+removed directory: ‘one/two’
+removed directory: ‘one’
+]777;notify;Command completed;rm -v -r one]0;koa.sato@mcl-8:~/cs32/lab01]7;file://mcl-8.cs.ucsb.edu/cs/student/koa.sato/cs32/lab01[koa.sato@mcl-8 lab01]$ mkdir -p -v l[Kone/two/three
+mkdir: created directory ‘one’
+mkdir: created directory ‘one/two’
+mkdir: created directory ‘one/two/three’
+]777;notify;Command completed;mkdir -p -v one/two/three]0;koa.sato@mcl-8:~/cs32/lab01]7;file://mcl-8.cs.ucsb.edu/cs/student/koa.sato/cs32/lab01[koa.sato@mcl-8 lab01]$ rmdir -v -p one/two/three
+rmdir: removing directory, ‘one/two/three’
+rmdir: removing directory, ‘one/two’
+rmdir: removing directory, ‘one’
+]777;notify;Command completed;rmdir -v -p one/two/three]0;koa.sato@mcl-8:~/cs32/lab01]7;file://mcl-8.cs.ucsb.edu/cs/student/koa.sato/cs32/lab01[koa.sato@mcl-8 lab01]$ exit
+
+Script done on Wed 06 Apr 2016 05:38:27 PM PDT
